@@ -5,7 +5,7 @@ version = '0.0.1'
 dependencies = [
     'torch==2.2.0',
     'torchaudio==2.2.0',
-    'transformers==4.46.3'
+    'transformers'
 ]
 
 [tool.poetry]
