@@ -3,8 +3,8 @@ name = 'hf_transformers_custom_model_ced'
 version = '0.0.1'
 
 dependencies = [
-    'torch==2.1.2',
-    'torchaudio==2.1.2',
+    'torch==2.2.0',
+    'torchaudio==2.2.0',
     'transformers==4.46.3'
 ]
 
